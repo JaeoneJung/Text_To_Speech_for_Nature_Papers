@@ -47,7 +47,7 @@ To use this app, save the webpage first:
 ## 📂 Output
 
 All generated files will be saved to:  
-.../saved_mp3s/<article-title>/  
+`.../saved_mp3s/<article-title>/`  
 
 
 This includes:
