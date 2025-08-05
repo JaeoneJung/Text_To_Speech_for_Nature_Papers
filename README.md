@@ -1,7 +1,8 @@
 # 🗣 HTML to Speech Converter (macOS, Offline, Edge TTS)
 
-This is a simple desktop app (Tkinter GUI) for **macOS** that converts saved HTML articles into audio using Edge TTS (`en-US-AriaNeural`). It:
+This is a simple desktop app (Tkinter GUI) for **macOS** that converts saved HTML articles into audio using Edge TTS.  
 
+The following are the summary of the major functions.
 - 🧹 Cleans and extracts readable text
 - 🎧 Adds natural pauses using `.`
 - 🔕 Skips citations, figure captions, and boxes
