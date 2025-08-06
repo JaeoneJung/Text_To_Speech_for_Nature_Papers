@@ -1,7 +1,7 @@
 # 🗣 HTML to Speech Converter  
 ### (macOS • Offline • Edge TTS)
 
-A simple, offline desktop app built with **Tkinter** for macOS. It converts saved HTML articles into MP3 audio using Microsoft’s `en-US-AriaNeural` voice via **Edge TTS**.
+A simple, offline desktop app built with **Tkinter** for macOS. It converts saved Nature HTML articles into MP3 audio using Microsoft’s `en-US-AriaNeural` voice via **Edge TTS**.
 
 ---
 
